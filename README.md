@@ -12,6 +12,17 @@ As this is for an exam, I have decided to put it in markdown format. But if it w
 
 This will be a hospital patient management system with chat functionality. Running on Ruby on Rails API.
 
+No coding was done, as I read in the exam it is to make a plan for the backend.
+
+> The diagrams below are made with [Mermaid JS](https://mermaid-js.github.io/mermaid/) and will not render in Github.
+> You may go to [Stackedit](https://stackedit.io/app), and paste the diagram code wrapped in a markdown code block with mermaid as the language.
+>
+> ````
+> ```mermaid
+> diagram code
+> ```
+> ````
+
 ## Chat Feature
 
 We have a special feature that needs to be discussed, which is the chat feature. In order to build a realtime chat feature, we will be using a third-party api called [Pusher](https://pusher.com) for an affordable hosted websockets solution. This will allow our frontend application to have an open line of communication to our API.
